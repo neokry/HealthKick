@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>492111779723-04cdvv5st7uhfnfqv4peuillbufjsuln.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.492111779723-04cdvv5st7uhfnfqv4peuillbufjsuln</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSoBwhoiO6coBYDk8Fye_QrQw9lAEsnu8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>492111779723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GenevichApps.HealthKick</string>
+	<key>PROJECT_ID</key>
+	<string>health-kick-a3832</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-kick-a3832.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:492111779723:ios:fbaf2e6fdf6e991b30c18e</string>
+	<key>DATABASE_URL</key>
+	<string>https://health-kick-a3832.firebaseio.com</string>
+</dict>
+</plist>

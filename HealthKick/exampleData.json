@@ -1,0 +1,43 @@
+{
+    "exampleIngredients": [
+        "Tomato",
+        "Lettcue",
+        "Spinach",
+        "Carrot",
+        "Potato",
+        "Rice",
+        "Chicken",
+        "Beef",
+        "Bean",
+        "Garlic",
+        "Egg",
+        "Curry",
+        "Honey",
+        "Oats",
+        "Pasta",
+        "Pesto",
+        "Turkey",
+        "Broccoli",
+        "Salmon",
+        "Sausage",
+        "Zucchini",
+        "Ribs",
+        "Yogurt",
+        "Green Beans",
+        "Bell Peppers",
+        "Tofu"
+    ],
+    
+    "exampleRecipes": [
+        "Tacos",
+        "Quesadilla",
+        "Burrito",
+        "Salad",
+        "Stir Fry",
+        "Fajitas",
+        "Mac and cheese",
+        "Burger",
+        "Meatball",
+        "Tilapia"
+    ]
+}

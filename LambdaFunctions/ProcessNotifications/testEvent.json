@@ -1,0 +1,29 @@
+[
+  {
+    "deleted": [],
+    "new": [
+      {
+        "actor": {
+          "id": "0Scfg6wxyKQiVqGYdvEk8Qz2nLx2"
+        },
+        "verb": "tweet",
+        "object": "1",
+        "target": null,
+        "time": "2016-12-15T17:20:37.258",
+        "foreign_id": null,
+        "id": "af781804-847e-11e4-8080-80012fb97b9e",
+        "tweet": "Hello world"
+      }
+    ],
+    "published_at": "2014-12-15T17:20:37.263518+00:00",
+    "feed": "user:2"
+  },
+  {
+    "deleted": [
+      "38f81366-847f-11e4-9c94-0cc47a024be0"
+    ],
+    "new": [],
+    "published_at": "2014-12-15T17:20:37.263518+00:00",
+    "feed": "timeline:1"
+  }
+]
